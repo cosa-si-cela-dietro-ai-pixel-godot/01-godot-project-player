@@ -86,7 +86,7 @@ Prima di iniziare, assicurati di avere i seguenti software installati:
 ### Installazione
 1. Clonare la repository
    ```sh
-   git clone https://github.com/cosa-si-cela-dietro-ai-pixel-godot/01-godot-project-player.git
+   git clone https://github.com/rpg-course-godot/01-godot-project-player.git
    ```
 2. Aprire Godot 4.1.3
 3. Cliccare su **Import**
